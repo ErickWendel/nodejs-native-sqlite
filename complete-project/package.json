@@ -1,18 +1,15 @@
 {
-  "name": "preclass",
+  "name": "complete-project",
   "version": "0.0.1",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "node --inspect --watch --experimental-sqlite src/index.js"
   },
   "keywords": [],
-  "author": "erickwendel",
+  "author": "",
   "license": "ISC",
   "description": "",
-  "engines": {
-    "node": "v22.9.0"
-  },
-  "type": "module",
   "dependencies": {
     "sql-bricks": "^3.0.1"
   }
